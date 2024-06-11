@@ -13,4 +13,5 @@ pypiserver/pypiserver:v2.1.1
 registry:2.8
 testcontainers/ryuk:0.7.0
 timescale/timescaledb:2.13.0-pg14
+ubuntu:20.04
 ubuntu:22.04
