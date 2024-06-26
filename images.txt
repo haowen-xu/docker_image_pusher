@@ -1,3 +1,4 @@
+quay.io/pypa/manylinux2014_x86_64:2024-05-13-0983f6f
 caddy:2.7.6
 certbot/dns-cloudflare:latest
 clickhouse/clickhouse-server:21.8
