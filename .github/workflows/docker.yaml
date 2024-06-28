@@ -51,4 +51,8 @@ jobs:
           docker tag $image $new_image
           echo "docker push $new_image"
           docker push $new_image
+          # 删除镜像，防止 no space left
+          docker rmi $image
+          docker rmi $new_image
+          docker rmi $(docker images --filter 'dangling=true' -q --no-trunc) || :
         done < images.txt
