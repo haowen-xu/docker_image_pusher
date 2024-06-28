@@ -1,9 +1,10 @@
-squidfunk/mkdocs-material:9
 caddy:2.7.6
 certbot/dns-cloudflare:latest
 clickhouse/clickhouse-server:21.8
 clickhouse/clickhouse-server:23.4.2
 gitlab/gitlab-ce:16.8.1-ce.0
+gitlab/gitlab-ce:16.11.5-ce.0
+gitlab/gitlab-ce:17.1.1-ce.0
 hello-world:latest
 mongo:4.0
 mongo:7.0
@@ -13,6 +14,7 @@ postgres:12-alpine
 pypiserver/pypiserver:v2.1.1
 quay.io/pypa/manylinux2014_x86_64:2024-05-13-0983f6f
 registry:2.8
+squidfunk/mkdocs-material:9
 testcontainers/ryuk:0.7.0
 timescale/timescaledb:2.13.0-pg14
 ubuntu:20.04
