@@ -1,1 +1,2 @@
-node:24.0.1-bookworm
+syncthing/discosrv:latest
+syncthing/relaysrv:latest

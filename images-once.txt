@@ -63,3 +63,5 @@ gitlab/gitlab-ce:17.8.7-ce.0
 gitlab/gitlab-ce:17.10.5-ce.0
 gitlab/gitlab-runner:ubuntu-v17.10.1
 node:24.0.1-bookworm
+syncthing/discosrv:latest
+syncthing/relaysrv:latest
